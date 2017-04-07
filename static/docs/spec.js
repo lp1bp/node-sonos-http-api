@@ -218,6 +218,9 @@ var spec =
         "nextTrack": {
           "$ref": "Track"
         },
+	  "votenext": {
+	      "$ref": "Track"
+	  },
         "volume": {
           "type": "integer",
           "format": "int32"
