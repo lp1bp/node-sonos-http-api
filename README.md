@@ -76,6 +76,7 @@ The actions supported as of today:
 * trackseek (parameter is queue index)
 * timeseek (parameter is in seconds, 60 for 1:00, 120 for 2:00 etc)
 * next
+* votenext
 * previous
 * state (will return a json-representation of the current state of player)
 * favorite
